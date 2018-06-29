@@ -1,0 +1,15 @@
+C:\Users\Шаймарданов С М\Desktop\PROJECT_VS\Update Manager\Update Manager\bin\Debug\Update Manager.exe.config
+C:\Users\Шаймарданов С М\Desktop\PROJECT_VS\Update Manager\Update Manager\bin\Debug\Update Manager.exe
+C:\Users\Шаймарданов С М\Desktop\PROJECT_VS\Update Manager\Update Manager\bin\Debug\Update Manager.pdb
+C:\Users\Шаймарданов С М\Desktop\PROJECT_VS\Update Manager\Update Manager\obj\Debug\Update Manager.csprojAssemblyReference.cache
+C:\Users\Шаймарданов С М\Desktop\PROJECT_VS\Update Manager\Update Manager\obj\Debug\MainWindow.g.cs
+C:\Users\Шаймарданов С М\Desktop\PROJECT_VS\Update Manager\Update Manager\obj\Debug\App.g.cs
+C:\Users\Шаймарданов С М\Desktop\PROJECT_VS\Update Manager\Update Manager\obj\Debug\Update Manager_MarkupCompile.cache
+C:\Users\Шаймарданов С М\Desktop\PROJECT_VS\Update Manager\Update Manager\obj\Debug\Update Manager_MarkupCompile.lref
+C:\Users\Шаймарданов С М\Desktop\PROJECT_VS\Update Manager\Update Manager\obj\Debug\MainWindow.baml
+C:\Users\Шаймарданов С М\Desktop\PROJECT_VS\Update Manager\Update Manager\obj\Debug\Update Manager.g.resources
+C:\Users\Шаймарданов С М\Desktop\PROJECT_VS\Update Manager\Update Manager\obj\Debug\Update_Manager.Properties.Resources.resources
+C:\Users\Шаймарданов С М\Desktop\PROJECT_VS\Update Manager\Update Manager\obj\Debug\Update Manager.csproj.GenerateResource.cache
+C:\Users\Шаймарданов С М\Desktop\PROJECT_VS\Update Manager\Update Manager\obj\Debug\Update Manager.csproj.CoreCompileInputs.cache
+C:\Users\Шаймарданов С М\Desktop\PROJECT_VS\Update Manager\Update Manager\obj\Debug\Update Manager.exe
+C:\Users\Шаймарданов С М\Desktop\PROJECT_VS\Update Manager\Update Manager\obj\Debug\Update Manager.pdb
